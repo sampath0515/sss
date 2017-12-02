@@ -1,5 +1,3 @@
-# sss
-Dummy Repo for git 
 const Hapi= require("hapi");
 
 //initilization of server
